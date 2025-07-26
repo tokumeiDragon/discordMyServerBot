@@ -3,4 +3,7 @@
 	"editor.insertSpaces": false,
 	"editor.detectIndentation": false,
 	"editor.formatOnSave": true,
+	"cSpell.words": [
+		"myserverbot"
+	],
 }
